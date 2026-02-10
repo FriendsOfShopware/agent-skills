@@ -1,0 +1,14 @@
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.cursor/
+.windsurf/
+.idea/
+
+# AI agent directories
+.claude/
+.agent/
+.codex/
+.gemini/
