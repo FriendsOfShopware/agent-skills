@@ -1,3 +1,20 @@
 {
-	"plugins": []
+	"name": "friendsofshopware-agent-skills",
+	"owner": {
+		"name": "FriendsOfShopware",
+		"email": "info@friendsofshopware.com"
+	},
+	"metadata": {
+		"description": "Agent skills to help developers using AI agents with Shopware",
+		"version": "1.0.0"
+	},
+	"plugins": [
+		{
+			"name": "shopware-phpunit",
+			"description": "Best practices for writing PHPUnit tests in Shopware 6 projects. Use when writing, reviewing, or fixing PHPUnit tests for Shopware plugins and apps.",
+			"source": "./",
+			"strict": false,
+			"skills": ["./skills/shopware-phpunit"]
+		}
+	]
 }
