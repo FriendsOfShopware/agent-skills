@@ -15,6 +15,13 @@
 			"source": "./",
 			"strict": false,
 			"skills": ["./skills/shopware-phpunit"]
+		},
+		{
+			"name": "shopware-admin-crud-module",
+			"description": "Creates a standalone CRUD administration module for a Shopware DAL entity with list page, detail/create page, ACL, filters, search, and snippets.",
+			"source": "./",
+			"strict": false,
+			"skills": ["./skills/shopware-admin-crud-module"]
 		}
 	]
 }

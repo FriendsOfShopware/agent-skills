@@ -23,6 +23,7 @@ npx skills add FriendsOfShopware/agent-skills
 | Skill | Description |
 |-------|-------------|
 | [shopware-phpunit](skills/shopware-phpunit/) | Best practices for writing PHPUnit tests in Shopware 6 projects |
+| [shopware-admin-crud-module](skills/shopware-admin-crud-module/) | Creates a standalone CRUD administration module for a Shopware DAL entity |
 
 ## Structure
 
