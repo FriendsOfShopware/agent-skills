@@ -29,6 +29,13 @@
 			"source": "./",
 			"strict": false,
 			"skills": ["./skills/shopware-extension-security"]
+		},
+		{
+			"name": "shopware-store-preflight",
+			"description": "Reviews Shopware extensions before Store submission and helps fix rejection feedback with version-aware checks for packaging, permissions, lifecycle, storefront behavior, and integrations.",
+			"source": "./",
+			"strict": false,
+			"skills": ["./skills/shopware-store-preflight"]
 		}
 	]
 }
